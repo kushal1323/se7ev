@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+alembic
+transformers
+torch
+soundfile
+groq
+python-multipart
